@@ -1,5 +1,5 @@
 # Python String sequence number generator Module
-Python's module for generating sequnence numbers . 
+Python's module for generating sequence numbers . 
 
 You can use the module to generate string list that include sequential numbers 
 
