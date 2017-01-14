@@ -3,18 +3,6 @@ __version__ ='alpha 1.0'
 __license__ = "GPL"
 __email__ = "yassinefarich@gmail.com"
 
-"""
-
-    Sequence numbers generator module for python 3
-    Example : for string = "Hello [1:2|3] Word [4:5|2] How are you [70:75|3] "
-                the result will be :
-                                Hello 001 Word 04 How are you 070
-                                            ........
-                                Hello 002 Word 05 How are you 073
-                                Hello 002 Word 05 How are you 074
-                                Hello 002 Word 05 How are you 075
-
-"""
 
 STRING_DATA ="Hello [1:2|3] Word [4:5|2] How are you [70:75|3] "
 
